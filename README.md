@@ -2,7 +2,7 @@
 
 # Olá! 👋, eu sou o Kauê Pini
 
-🎓 Estudante de Ciências da computação (CC), no Brasil.
+🎓 Estudante de Ciências da computação (CC), em São Paulo.
 
 💻 Estou construindo minha jornada na área de tecnologia, desenvolvendo conhecimentos em programação, desenvolvimento web e banco de dados.
 
